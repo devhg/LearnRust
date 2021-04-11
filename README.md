@@ -1,1 +1,3 @@
 # LearnRust
+
+code & note
